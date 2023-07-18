@@ -1,16 +1,32 @@
-### Hi there 👋
+<h2 align="center" style="font-family: Consolas, monospace;">
+	[~] $ whoami
+</h2>
 
-<!--
-**rafaelsq/rafaelsq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+	<strong>
+		<a href="https://www.linkedin.com/in/rafaelsquintela/">Linkedin</a>
+	</strong>
+</p>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+FullStack developer since 2008  
+Golang developer since 2015
+
+- :brazil: Brazillian (Belo Horizonte / MG)
+- :microscope: Superior of Technology in Systems Analysis and Development
+  
+#### Skills:
+- Golang · Python(Django) · JavaScript(React · Typescript)
+- REST/RESTfull · GraphQL · OpenAPI Specification (OAS) · GRPC(Protobuf)
+- Code Architecture · Microservices · OpenTelemetry · Prometheus · Grafana
+- K8s · Docker · Nginx · MySQL · PostgreSQL · AWS · GCP · OracleCloud
+
+
+
+
+#### I’m currently working on
+
+- [WTC](https://github.com/rafaelsq/wtc) - Utility you can use to watch files and execute commands.
+- [Boiler](https://github.com/rafaelsq/boiler) - Golang project
+- [GoC](https://github.com/rafaelsq/nvim-goc.lua) - Go Coverage for Neovim
+- [Yanks](https://github.com/rafaelsq/nvim-yanks.lua) - Clipboard manager neovim plugin with fzf.vim integration
