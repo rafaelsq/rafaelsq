@@ -16,10 +16,10 @@ Golang developer since 2015
 - :microscope: Superior of Technology in Systems Analysis and Development
   
 #### Skills:
-- Golang · Python(Django) · JavaScript(React · Typescript)
+- Golang · Python(FastAPI · Django) · JavaScript(VueJS · React · Typescript)
 - REST/RESTfull · GraphQL · OpenAPI Specification (OAS) · GRPC(Protobuf)
 - Code Architecture · Microservices · OpenTelemetry · Prometheus · Grafana
-- K8s · Docker · Nginx · MySQL · PostgreSQL · AWS · GCP · OracleCloud
+- K8s · Docker · Nginx · MySQL · PostgreSQL · AWS · GCP · OracleCloud · Terraform
 
 
 
