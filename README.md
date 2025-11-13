@@ -27,6 +27,11 @@ Golang developer since 2015
 #### I’m currently working on
 
 - [WTC](https://github.com/rafaelsq/wtc) - Utility you can use to watch files and execute commands.
-- [Boiler](https://github.com/rafaelsq/boiler) - Golang project
 - [GoC](https://github.com/rafaelsq/nvim-goc.lua) - Go Coverage for Neovim
 - [Yanks](https://github.com/rafaelsq/nvim-yanks.lua) - Clipboard manager neovim plugin with fzf.vim integration
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rafaelsq/rafaelsq/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rafaelsq/rafaelsq/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+</picture>
